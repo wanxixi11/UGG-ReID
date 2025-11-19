@@ -1,5 +1,5 @@
 from .dukemtmcreid import DukeMTMCreID
-from .market1501 import Market1501
+from .Market1501 import Market1501
 from .msmt17 import MSMT17
 from .RGBNT100 import RGBNT100
 from .RGBNT201 import RGBNT201

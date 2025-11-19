@@ -33,7 +33,7 @@ cd UGG-ReID
 
 ### 2. Create environment
 ```
-conda create -n UGG-ReID python=3.11.5
+conda create -n UGG-ReID python=3.12.9
 conda activate UGG-ReID
 pip install -r requirement.txt
 ```

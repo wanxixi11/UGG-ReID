@@ -12,7 +12,7 @@ Accpected by [NeurIPS 2025]
 
 ## 📌 Abstract
 
-![framework](./assets/framework.png) <!-- optional -->
+![framework](./framework.png) <!-- optional -->
 
 Multi-modal object Re-IDentification (ReID) has gained considerable attention with the goal of retrieving specific targets across cameras using heterogeneous visual data sources.
 At present, multi-modal object ReID faces two core challenges: (1) learning robust features under fine-grained local noise caused by occlusion, frame loss, and other disruptions; and (2) effectively integrating heterogeneous modalities to enhance multi-modal representation.
